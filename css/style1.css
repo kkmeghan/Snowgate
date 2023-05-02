@@ -205,3 +205,26 @@ opacity: 1;
   opacity: 1;
   right: 0;
 }
+
+
+.con{
+  background-color: rgb(78, 214, 212);
+  border-radius: 0px;
+  height: 10vh;
+  padding: 2vh;
+  text-align: right;
+  
+}
+
+.hb{
+  border-radius: 20px;
+  font-style: inherit;
+  padding: 5px;
+}
+
+.hn{
+  text-align: center;
+  color: white;
+}
+
+
